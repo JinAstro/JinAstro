@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- :smirk_cat: Vim + VScode :)
 -->
 
-- 🌱 Astrophysics is difficult :(
+- 🌱 Astrophysics is amazing :)
 - :shit: C++ Python Wolfram :)
-- :smirk_cat: Vim + VScode :)
+
 
 
